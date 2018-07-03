@@ -1,0 +1,5 @@
+c:\users\krzysiek\documents\visual studio 2017\Projects\GuessNumber_While\GuessNumber_While\bin\Debug\GuessNumber_While.exe.config
+c:\users\krzysiek\documents\visual studio 2017\Projects\GuessNumber_While\GuessNumber_While\bin\Debug\GuessNumber_While.exe
+c:\users\krzysiek\documents\visual studio 2017\Projects\GuessNumber_While\GuessNumber_While\bin\Debug\GuessNumber_While.pdb
+c:\users\krzysiek\documents\visual studio 2017\Projects\GuessNumber_While\GuessNumber_While\obj\Debug\GuessNumber_While.exe
+c:\users\krzysiek\documents\visual studio 2017\Projects\GuessNumber_While\GuessNumber_While\obj\Debug\GuessNumber_While.pdb
